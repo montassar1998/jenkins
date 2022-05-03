@@ -16,6 +16,8 @@
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
 
+        <exec.mainClass>com.devops.monta.Simplilearn</exec.mainClass>
+
   </properties>
 
   <dependencies>
